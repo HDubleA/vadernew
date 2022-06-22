@@ -84,7 +84,6 @@ The package contains the dictionaries and functions relating to the 4 topics sep
 
 The package contains the dictionaries and functions relating to the 4 topics separately, which can be imported individually.
 That is, two replacement functions, respectively of SentiText() which identifies the string-level properties relevant to the sentiment of the input text, and SentimentIntensityAnalyzer() which instead assigns a sentiment intensity score to the phrases. The two functions are renamed for each argument.
-------------------------------------
 :: 
    from vadernew.vader_food import Food_ST, Food_SIA
 
