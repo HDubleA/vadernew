@@ -72,7 +72,6 @@ Package explanation
 IT start by installing the ”vadernew” package via pip install.
 
 The package contains the dictionaries and functions relating to the 4 topics separately, which can be imported individually.
-------------------------------------
 :: 
    from vadernew imoport vader_food
 
