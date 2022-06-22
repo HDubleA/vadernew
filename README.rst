@@ -20,10 +20,10 @@ it means that a certain stock is destined to grow. The project will be divided i
 an articulated and cohesive system of recognition and specific analysis of topics of discussion.
 
 The package offers specialized dictionaries for sentiment analysis on the following topics:
-#. Food: food review on amazon
-#. Electronics: review of electronic products on amazon
-#. Disneyland: review of amusement parks on tripadvisor
-#. Finance: reviews and tweets of financial topics
+#.  Food: food review on amazon
+#.  Electronics: review of electronic products on amazon
+#.  Disneyland: review of amusement parks on tripadvisor
+#.  Finance: reviews and tweets of financial topics
 
 In addition to the VADER sentiment analysis Python module, options 3 or 4 will also download all the additional resources and datasets (described below).
 
