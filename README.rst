@@ -4,7 +4,7 @@ VADERNEW
 VADERNEW parte dalla base di VADER e si pone l'obbiettivo di mostrare come sia possibile migliorarlo. Il funzionamento è del tutto analogo a VADER, come mostrato nel progetto, ottiene delle performance migliori lavorando su argomenti specifici.
 It is fully open-sourced under the `[MIT License] <http://choosealicense.com/>`_ (we sincerely appreciate all attributions and readily accept most contributions, but please don't hold us liable).
 
-* `vadernew: un'evoluzione di vader`_
+* `vadernew: a vader evolution`_
 * `Introduction`_
 * `Installation`_
 * `Package explanation`_
@@ -12,7 +12,7 @@ It is fully open-sourced under the `[MIT License] <http://choosealicense.com/>`_
 * `Files explanation`_
 * `Conclusion`_
 
-vadernew: un'evoluzione di vader
+vadernew: a vader evolution
 ------------------------------------
 The project starts from the basic idea of overcoming the limits of Vader, which is too general and not applicable to specific contexts. 
 An example of the above problem can be found in terms such as ”bull” which in everyday language means ”bull”, but in a financial context 
