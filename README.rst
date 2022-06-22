@@ -1,7 +1,7 @@
 ====================================
 VADERNEW
 ====================================
-VADERNEW parte dalla base di VADER e si pone l'obbiettivo di mostrare come sia possibile migliorarlo. Il funzionamento è del tutto analogo a VADER, come mostrato nel progetto, ottiene delle performance migliori lavorando su argomenti specifici.
+VADERNEW starts from VADER base and aims to show how it can be improved. Vadernew is completely similar to VADER, as shown in the project, obtained better performances by working on specific topics.
 It is fully open-sourced under the `[MIT License] <http://choosealicense.com/>`_ (we sincerely appreciate all attributions and readily accept most contributions, but please don't hold us liable).
 
 * `vadernew: a vader evolution`_
