@@ -5,8 +5,8 @@ VADERNEW parte dalla base di VADER e si pone l'obbiettivo di mostrare come sia p
 It is fully open-sourced under the `[MIT License] <http://choosealicense.com/>`_ (we sincerely appreciate all attributions and readily accept most contributions, but please don't hold us liable).
 
 * `vadernew: un'evoluzione di vader`_
-* Introduction_
-* Installation_
+* `Introduction`_
+* `Installation`_
 * `Package explanation`_
 * `Example`_
 * `Files explanation`_
