@@ -74,13 +74,13 @@ IT start by installing the ”vadernew” package via pip install.
 The package contains the dictionaries and functions relating to the 4 topics separately, which can be imported individually.
 ------------------------------------
 :: 
-   from vadernew.vader_food import Food_ST, Food_SIA
+   from vadernew imoport vader_food
 
-   from vadernew.vader_electronic import Electronic_ST, Electronic_SIA 
+   from vadernew import vader_electronic 
 
-   from vadernew.vader_disneyland import Disney_ST, Disney_SIA
+   from vadernew import vader_disneyland
 
-   from vadernew.vader_finance import Finance_ST, Finance_SIA
+   from vadernew import vader_finance
 
 The package contains the dictionaries and functions relating to the 4 topics separately, which can be imported individually.
 That is, two replacement functions, respectively of SentiText() which identifies the string-level properties relevant to the sentiment of the input text, and SentimentIntensityAnalyzer() which instead assigns a sentiment intensity score to the phrases. The two functions are renamed for each argument.
