@@ -134,6 +134,7 @@ Output for the above example
 Files explanation
 ====================================
 #. **data**: the folder contains the datasets used for development.
+
     - **Completo_learing.xlsx** : dataset to train the topic classification model
     - **Cibo_learing.xlsx** : dataset to build the Food vocabulary
     - **Food.xlsx** : dataset to test the Food vocabulary
@@ -152,6 +153,7 @@ Files explanation
     - **Finance_dic.json** : dictionary specialized on the topic of Finance
 
 #. **analysis and development**: the folder contains the python notebooks for the project's development.
+
     - **word_weight_evaluation.ipynb** : notebook for thecreation of the specialized dictionaries
     - **we_for_better_performance.ipynb** : notebook for the evaluation of the wordembedding in dictionaries
     - **Vader_evaluation.ipynb** : notebook for the evaluation of the specialized dictionaries
