@@ -152,7 +152,9 @@ Files explanation
     - **Electronic_dic.json** : dictionary specialized on the topic of Electronic
     - **Finance_dic.json** : dictionary specialized on the topic of Finance
 
-#. **analysis and development**: the folder contains the python notebooks for the project's development.
+#. **analysis and development**: 
+
+the folder contains the python notebooks for the project's development.
 
     - **word_weight_evaluation.ipynb** : notebook for thecreation of the specialized dictionaries
     - **we_for_better_performance.ipynb** : notebook for the evaluation of the wordembedding in dictionaries
