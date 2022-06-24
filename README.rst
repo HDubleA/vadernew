@@ -156,10 +156,10 @@ Files explanation
 
 	the folder contains the python notebooks for the project's development.
 
-    - **word_weight_evaluation.ipynb** : notebook for thecreation of the specialized dictionaries
-    - **we_for_better_performance.ipynb** : notebook for the evaluation of the wordembedding in dictionaries
-    - **Vader_evaluation.ipynb** : notebook for the evaluation of the specialized dictionaries
-    - **Classification.ipynb** : notebook for the topic classification model
+		- **word_weight_evaluation.ipynb** : notebook for thecreation of the specialized dictionaries
+		- **we_for_better_performance.ipynb** : notebook for the evaluation of the wordembedding in dictionaries
+		- **Vader_evaluation.ipynb** : notebook for the evaluation of the specialized dictionaries
+		- **Classification.ipynb** : notebook for the topic classification model
     
 #. **vadernew**: folder that contains everiting necessary to post the package vadernew.
 
