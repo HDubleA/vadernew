@@ -133,17 +133,16 @@ Output for the above example
 ====================================
 Files explanation
 ====================================
-#. data 
-	| The folder 'data' contains the datasets used for development
-		| - **Completo_learing.xlsx** : dataset to train the topic classification model
-		| - **Cibo_learing.xlsx** : dataset to build the Food vocabulary
-		| - **Food.xlsx** : dataset to test the Food vocabulary
-		| - **Disneyland_learing.xlsx** : dataset for building the Disneyland vocabulary
-		| - **Disneyland.xlsx** : dataset for testing Disneyland vocabulary
-		| - **Electronic_learing.xlsx** : dataset to build the Electronic vocabulary
-		| - **Electronic.xlsx** : dataset to test the Electronic vocabulary
-		| - **Finance_learing.xlsx** : dataset to build the Finance vocabulary
-		| - **Finance.xlsx** : dataset to test the Finance vocabulary
+#. ***data***: The folder contains the datasets used for development.
+	- **Completo_learing.xlsx** : dataset to train the topic classification model
+	- **Cibo_learing.xlsx** : dataset to build the Food vocabulary
+	- **Food.xlsx** : dataset to test the Food vocabulary
+	- **Disneyland_learing.xlsx** : dataset for building the Disneyland vocabulary
+	- **Disneyland.xlsx** : dataset for testing Disneyland vocabulary
+	- **Electronic_learing.xlsx** : dataset to build the Electronic vocabulary
+	- **Electronic.xlsx** : dataset to test the Electronic vocabulary
+	- **Finance_learing.xlsx** : dataset to build the Finance vocabulary
+	- **Finance.xlsx** : dataset to test the Finance vocabulary
 
 #. dictionaries
    The folder 'dictionaries' contains the specialized dictionaries obtained from the analyzes.
