@@ -133,26 +133,30 @@ Output for the above example
 ====================================
 Files explanation
 ====================================
-#. **data**: the folder contains the datasets used for development.
+#. data 
 
-    - **Completo_learing.xlsx** : dataset to train the topic classification model
-    - **Cibo_learing.xlsx** : dataset to build the Food vocabulary
-    - **Food.xlsx** : dataset to test the Food vocabulary
-    - **Disneyland_learing.xlsx** : dataset for building the Disneyland vocabulary
-    - **Disneyland.xlsx** : dataset for testing Disneyland vocabulary
-    - **Electronic_learing.xlsx** : dataset to build the Electronic vocabulary
-    - **Electronic.xlsx** : dataset to test the Electronic vocabulary
-    - **Finance_learing.xlsx** : dataset to build the Finance vocabulary
-    - **Finance.xlsx** : dataset to test the Finance vocabulary
+	The folder contains the datasets used for development.
 
-#. **dictionaries**: the folder contains the specialized dictionaries obtained from the analyzes.
+		- **Completo_learing.xlsx** : dataset to train the topic classification model
+		- **Cibo_learing.xlsx** : dataset to build the Food vocabulary
+		- **Food.xlsx** : dataset to test the Food vocabulary
+		- **Disneyland_learing.xlsx** : dataset for building the Disneyland vocabulary
+		- **Disneyland.xlsx** : dataset for testing Disneyland vocabulary
+		- **Electronic_learing.xlsx** : dataset to build the Electronic vocabulary
+		- **Electronic.xlsx** : dataset to test the Electronic vocabulary
+		- **Finance_learing.xlsx** : dataset to build the Finance vocabulary
+		- **Finance.xlsx** : dataset to test the Finance vocabulary
 
-    - **Food_dic.json** : dictionary specialized on the topic of Food
-    - **Disneyland_dic.json** : dictionary specialized on the topic of Disneyland
-    - **Electronic_dic.json** : dictionary specialized on the topic of Electronic
-    - **Finance_dic.json** : dictionary specialized on the topic of Finance
+#. dictionaries 
 
-#. **analysis and development**: 
+	The folder contains the specialized dictionaries obtained from the analyzes.
+
+		- **Food_dic.json** : dictionary specialized on the topic of Food
+		- **Disneyland_dic.json** : dictionary specialized on the topic of Disneyland
+		- **Electronic_dic.json** : dictionary specialized on the topic of Electronic
+		- **Finance_dic.json** : dictionary specialized on the topic of Finance
+
+#. analysis and development
 
 	the folder contains the python notebooks for the project's development.
 
@@ -161,9 +165,13 @@ Files explanation
 		- **Vader_evaluation.ipynb** : notebook for the evaluation of the specialized dictionaries
 		- **Classification.ipynb** : notebook for the topic classification model
     
-#. **vadernew**: folder that contains everiting necessary to post the package vadernew.
+#. vadernew
+	
+	Folder that contains everiting necessary to post the package vadernew.
 
-#. **Project_explanation.pdf**: pdf file that explain the project.
+#. Project_explanation.pdf
+	
+	Pdf file that explain the project.
 
 ====================================
 Conclusion
