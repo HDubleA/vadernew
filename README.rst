@@ -145,10 +145,10 @@ Files explanation
     - **Finance.xlsx** : dataset to test the Finance vocabulary
 
 #. **dictionaries**: the folder contains the specialized dictionaries obtained from the analyzes.
-     - **Food_dic.json** : dictionary specialized on the topic of Food
-     - **Disneyland_dic.json** : dictionary specialized on the topic of Disneyland
-     - **Electronic_dic.json** : dictionary specialized on the topic of Electronic
-     - **Finance_dic.json** : dictionary specialized on the topic of Finance
+- **Food_dic.json** : dictionary specialized on the topic of Food
+- **Disneyland_dic.json** : dictionary specialized on the topic of Disneyland
+- **Electronic_dic.json** : dictionary specialized on the topic of Electronic
+- **Finance_dic.json** : dictionary specialized on the topic of Finance
 
 #. **analysis and development**: the folder contains the python notebooks for the project's development.
     - **word_weight_evaluation.ipynb** : notebook for thecreation of the specialized dictionaries
