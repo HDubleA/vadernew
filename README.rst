@@ -56,7 +56,7 @@ This README file briefly describes the proposed package:
 Starting from Vader
 ------------------------------------
 
-The project was developed starting from Vader, who was born thanks to cjhotto. For the operation of this fantastic tool we refer directly to the github page of the creator `[Vader] <https://github.com/cjhutto/vaderSentiment>` _. The original article is shown below:
+The project was developed starting from Vader, who was born thanks to cjhotto. For the operation of this fantastic tool we refer directly to the github page of the creator `[Vader] <https://github.com/cjhutto/vaderSentiment>`_ . The original article is shown below:
 
   **Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.** 
 
